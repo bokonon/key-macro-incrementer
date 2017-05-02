@@ -1,0 +1,18 @@
+{
+  "name": "key-macro-incrementer",
+  "main": "./lib/key-macro-incrementer",
+  "version": "0.0.0",
+  "description": "This is a key macro tool with number incremente.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "key-macro-incrementer:toggle"
+  },
+  "repository": "https://github.com/bokonon/key-macro-incrementer.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

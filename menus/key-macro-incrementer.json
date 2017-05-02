@@ -1,0 +1,38 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle key-macro-incrementer",
+        "command": "key-macro-incrementer:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "key-macro-incrementer",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "key-macro-incrementer:toggle"
+            },
+            {
+              "label": "StartKeyMacro",
+              "command": "key-macro:startKeyMacro"
+            },
+            {
+              "label": "EndKeyMacro",
+              "command": "key-macro:endKeyMacro"
+            },
+            {
+              "label": "Load",
+              "command": "key-macro:load"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

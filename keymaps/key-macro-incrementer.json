@@ -1,0 +1,9 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "key-macro-incrementer:toggle",
+
+    "ctrl-alt-s": "key-macro:startKeyMacro",
+    "ctrl-alt-e": "key-macro:endKeyMacro",
+    "ctrl-alt-l": "key-macro:load"
+  }
+}
