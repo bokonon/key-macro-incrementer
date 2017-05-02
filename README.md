@@ -1,12 +1,10 @@
 # key-macro-incrementer
 Atom package
 
-----
 ## what is?
 
 key-macro-incrementer is a key macro Atom package. And can increment number.
 
-----
 ## How to?
 
 * only key macro
@@ -20,12 +18,9 @@ key-macro-incrementer is a key macro Atom package. And can increment number.
     <kbd>Ctrl</kbd> + <kbd> Alt </kbd> + <kbd>l</kbd>
 
 * with number increment
- - Add this symbol to the beginning of the number.
-~~~
-%d
-~~~
+ 1. Add this symbol to the beginning of the number.
+    ~~~ %d ~~~
 
-----
 ## Example
 ~~~
 %d001 I have %d150 books.
