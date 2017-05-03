@@ -19,7 +19,9 @@ key-macro-incrementer is a key macro Atom package. And can increment number.
 
 * with number increment
  1. Add this symbol to the beginning of the number.
-    ~~~ %d ~~~
+    ~~~
+    %d
+    ~~~
 
 ## Example
 ~~~
