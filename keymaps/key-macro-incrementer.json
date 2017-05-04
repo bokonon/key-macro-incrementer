@@ -4,6 +4,8 @@
 
     "ctrl-alt-s": "key-macro:startKeyMacro",
     "ctrl-alt-e": "key-macro:endKeyMacro",
-    "ctrl-alt-l": "key-macro:load"
+    "ctrl-alt-l": "key-macro:load",
+    "ctrl-alt-c": "key-macro:incrementCopy",
+    "ctrl-alt-v": "key-macro:pasteWithEnter"
   }
 }

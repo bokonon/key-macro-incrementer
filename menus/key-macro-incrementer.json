@@ -29,6 +29,14 @@
             {
               "label": "Load",
               "command": "key-macro:load"
+            },
+            {
+              "label": "IncrementCopy",
+              "command": "key-macro:incrementCopy"
+            },
+            {
+              "label": "PasteWithEnter",
+              "command": "key-macro:pasteWithEnter"
             }
           ]
         }
